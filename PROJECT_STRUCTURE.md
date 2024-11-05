@@ -1,7 +1,6 @@
 ## Project Structure ✨
 
 <!-- START_STRUCTURE -->
-
 ```
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
@@ -10,17 +9,20 @@
 │   ├── 212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
 │   ├── 329829127-e79eb6de-81b1-4ffb-b6ed-f018bb977e88.png
 │   ├── Image
+│   ├── glassy logo.jpeg
 │   └── hacktober.png
 ├── PROJECT_STRUCTURE.md
 ├── README.md
 ├── docker-compose.yml
 ├── eslint.config.mjs
 ├── git
+├── glassy logo.jpeg
 ├── package-lock.json
 ├── package.json
 ├── postcss.config.js
 ├── public/
 │   ├── favicon.ico
+│   ├── glassy logo.jpeg
 │   ├── index.html
 │   ├── manifest.json
 │   └── robots.txt
@@ -68,6 +70,9 @@
 │   │   ├── SpeedDialDetailsPage.tsx
 │   │   ├── SpinnerDetailsPage.tsx
 │   │   ├── StatisticDetails.tsx
+│   │   ├── SurveyForm.tsx
+│   │   ├── Tabs.tsx
+│   │   ├── TabsDetails.tsx
 │   │   ├── TestimonialDetails.tsx
 │   │   ├── TextareaDetailPage.tsx
 │   │   ├── ThemeTogggle.tsx
@@ -87,5 +92,4 @@
 ├── tailwind.config.js
 └── tsconfig.json
 ```
-
 <!-- END_STRUCTURE -->
